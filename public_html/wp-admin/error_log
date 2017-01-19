@@ -1,0 +1,17 @@
+[19-Jan-2017 05:29:21 UTC] wizard_viewed
+[19-Jan-2017 05:29:39 UTC] wizard_started
+[19-Jan-2017 05:30:55 UTC] wizard_step_completed
+[19-Jan-2017 05:30:56 UTC] wizard_step_viewed
+[19-Jan-2017 05:31:00 UTC] wizard_step_completed
+[19-Jan-2017 05:31:00 UTC] wizard_step_completed
+[19-Jan-2017 05:31:01 UTC] wizard_step_viewed
+[19-Jan-2017 05:31:09 UTC] wizard_step_completed
+[19-Jan-2017 05:31:11 UTC] wizard_step_viewed
+[19-Jan-2017 05:31:22 UTC] wizard_step_skipped
+[19-Jan-2017 05:32:14 UTC] wizard_step_completed
+[19-Jan-2017 05:32:16 UTC] wizard_step_viewed
+[19-Jan-2017 05:32:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/eloanass/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[19-Jan-2017 05:34:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/eloanass/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[19-Jan-2017 05:58:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/eloanass/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[19-Jan-2017 06:04:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/eloanass/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[19-Jan-2017 06:08:43 UTC] wizard_hidden

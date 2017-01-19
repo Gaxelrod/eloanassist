@@ -1,0 +1,6 @@
+/* use this file just theme versions */
+@media  (max-width: 1200px){ 
+	.f-content h2 {
+		font-size: 17px;
+	}
+}
